@@ -14,4 +14,4 @@
 # echo 'src-git homeproxy https://github.com/immortalwrt/homeproxy.git' >>feeds.conf.default
 
 # 3. (可选) 添加其他常用的依赖源，确保编译不报错
-# echo 'src-git packages https://github.com/immortalwrt/packages.git' >>feeds.conf.default
+echo 'src-git packages https://github.com/immortalwrt/packages.git' >>feeds.conf.default
