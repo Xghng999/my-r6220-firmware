@@ -1,5 +1,4 @@
-src-git-full packages https://git.openwrt.org/feed/packages.git;openwrt-22.03
-src-git-full luci https://git.openwrt.org/project/luci.git;openwrt-22.03
-src-git-full routing https://git.openwrt.org/feed/routing.git;openwrt-22.03
-src-git-full telephony https://git.openwrt.org/feed/telephony.git;openwrt-22.03
-src-git-full smpackage https://github.com/kenzok8/small-package.git;main
+src-git-full packages https://github.com/immortalwrt/packages.git^875609b5207a9d59b923b9ae86b45013a6aacb8c
+src-git-full luci https://github.com/immortalwrt/luci.git^8d55064f3994f2d6c83246ffe5e90e595a64b216
+src-git-full routing https://git.openwrt.org/feed/routing.git^8071852b4556a02533cacb7a0f6a432df3507302
+src-git-full telephony https://git.openwrt.org/feed/telephony.git^920fbc5c0a2e4badf51bceff42e9a1e3eb693462
